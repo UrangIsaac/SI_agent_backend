@@ -1,0 +1,14 @@
+# Ignore dependency folders
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build output
+dist/
+
+# Ignore temporary files
+*.tmp
+
+# Exception: do not ignore this file
+!important.log
